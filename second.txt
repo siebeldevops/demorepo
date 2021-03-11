@@ -1,1 +1,2 @@
 This is the second file created to test Jira integration.
+New line for another test
