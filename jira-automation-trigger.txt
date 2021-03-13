@@ -1,0 +1,1 @@
+New file to trigger Jira automation (Status from TO DO to IN PROGRESS)
